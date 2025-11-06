@@ -35,7 +35,6 @@ This notebook demonstrates practical data manipulation and analysis using **Pand
 ## 📂 Project Files
 
 - `Ecommerce Purchase Data Analysis.ipynb` — Jupyter notebook with all code and explanations  
-- Dataset files (if any)  
 
 ---
 
